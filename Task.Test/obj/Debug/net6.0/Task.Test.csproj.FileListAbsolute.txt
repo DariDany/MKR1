@@ -1,0 +1,5 @@
+D:\Dasha\KNU\MKR\MKR1\Task.Test\obj\Debug\net6.0\Task.Test.csproj.AssemblyReference.cache
+D:\Dasha\KNU\MKR\MKR1\Task.Test\obj\Debug\net6.0\Task.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasha\KNU\MKR\MKR1\Task.Test\obj\Debug\net6.0\Task.Test.AssemblyInfoInputs.cache
+D:\Dasha\KNU\MKR\MKR1\Task.Test\obj\Debug\net6.0\Task.Test.AssemblyInfo.cs
+D:\Dasha\KNU\MKR\MKR1\Task.Test\obj\Debug\net6.0\Task.Test.csproj.CoreCompileInputs.cache
